@@ -5,10 +5,10 @@ Bu, Frontend Mentor'daki [QR kod bileşeni](https://www.frontendmentor.io/challe
 ## İçindekiler
 
 - [Genel Bakış](#genel-bakış)
-  - [Ekran Görüntüsü](#ekran-eörüntüsü)
+  - [Ekran Görüntüsü](#ekran-görüntüsü)
   - [Linkler](#linkler)
-  - [Author](#yazar)
-  - [Acknowledgments](#teşekkürler)
+  - [Yazar](#yazar)
+  - [Teşekkürler](#teşekkürler)
 
 ## Genel-Bakış
 
