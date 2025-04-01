@@ -29,12 +29,12 @@ main{
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -30px, rgba(0, 0, 0, 0.3) 0px 0px 30px -20px;
     border-radius: 20px;
     text-align: center;
-    width: 200px;
+    width: 220px;
     
     padding: 1rem;
     background-color: var(--White);
 }
 img{
     border-radius: 10px;
-    width: 200px;
+    width: 220px;
 }
